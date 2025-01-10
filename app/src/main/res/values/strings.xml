@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">MyEvent</string>
+
+    <!-- Aset API -->
+    <string name="event_image_description">Image Cover</string>
+    <string name="event_name">Event Name</string>
+    <string name="event_begin_time">Begin Time</string>
+    <string name="event_summary">Event Summary</string>
+    <string name="event_owner">Owner</string>
+    <string name="event_quota">Quota</string>
+    <string name="event_time_format">%1$s - %2$s</string>
+    <string name="remaining_quota_format">Sisa Kuota: %1$d</string>
+
+    <!-- Button -->
+    <string name="back_button">Back</string>
+    <string name="reg_button">Register</string>
+    <string name="up_button">Upcoming</string>
+    <string name="fin_button">Finished</string>
+    <string name="home_button">Home</string>
+    <string name="favorite_button">Favorite</string>
+    <string name="mode_switch">Dark Mode</string>">
+    <string name="settings_button">Settings</string>
+
+    <!-- Title Text -->
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <string name="header_title">Dicoding Events</string>
+    <string name="subheader_text">Recommendation events for you</string>">
+    <string name="no_favorites">No favorite events yet</string>">
+
+
+
+</resources>

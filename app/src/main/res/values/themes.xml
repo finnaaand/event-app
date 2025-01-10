@@ -1,0 +1,11 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MyEvent" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="colorPrimary">#522258</item>
+        <item name="colorPrimaryVariant">#605678</item>
+        <item name="colorOnPrimary">#FFFFFF</item>
+    </style>
+
+    <style name="Theme.MyEvent" parent="Base.Theme.MyEvent" />
+</resources>
